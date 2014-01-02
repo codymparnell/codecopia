@@ -1,0 +1,70 @@
+/* BACKGROUND */
+::selection, .button, #home_icon, .tags li:hover, #flickrphotos_blog.thumbs li img:hover  {background-color: #9838bd;}
+
+.blog-bar, #logotype, .button_down, #description, #filters li.active, #skill .bar, .flickr_title {background-color: #9838bd;}
+
+ .menu_trigger.active, .mobileAreaMenu li, .services_tab.active, .newsletter{background-color: #9838bd!important;;}
+
+
+/* BACKGROUND RGBA */
+.over {background-color: rgba(152,56,189,.9);}
+.ie8 .over {background-color: #9838bd;}
+
+/* BORDER */
+.team_details {
+	border-top: 5px solid #9838bd;
+}
+
+#footer {
+	border-top: 5px solid #9838bd;
+}
+
+/* COLOR */
+a, #filters li:hover a, .blog-boddy a:hover, .post-info .post-author:hover, .tweet_list a, .caption_color {color:#9838bd;}
+.descripcion_services p {color:#9838bd;}
+
+/* PAGE TITLE */
+
+.page_title {background: #9838bd url('../../images/bg/titlepattern.png');}
+
+
+.divider_title.about {
+	background-image: url(../../images/skins/purple/about_line.png);	
+}
+.divider_title.team {
+	background-image: url(../../images/skins/purple/team_line.png);	
+}
+.divider_title.portfolio {
+	background-image: url(../../images/skins/purple/portfolio_line.png);	
+}
+.divider_title.services {
+	background-image: url(../../images/skins/purple/services_line.png);	
+}
+.divider_title.blog {
+	background-image: url(../../images/skins/purple/blog_line.png);	
+}
+.divider_title.contact {
+	background-image: url(../../images/skins/purple/contact_line.png);	
+}
+
+.icon_views {
+	background-image: url(../../images/skins/purple/views.png);
+	background-repeat: no-repeat;
+	min-height: 40px;
+	background-position: center;
+
+}
+.icon_loves {
+	background-image: url(../../images/skins/purple/heart.png);
+	background-repeat: no-repeat;
+	min-height: 40px;
+	background-position: center;
+}
+
+.icons {margin-bottom:15px;}
+.icon_comments {
+	background-image: url(../../images/skins/purple/comment.png);
+	background-repeat: no-repeat;
+	min-height: 40px;
+	background-position: center;
+}

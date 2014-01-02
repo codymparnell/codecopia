@@ -1,0 +1,20 @@
+  /*	-	THE BANNER CONTAINER (Padding, Shadow, Border etc. )	-	*/
+
+	 .fullwidthbanner-container{
+		width:100% !important;
+		position:relative;
+		padding:0;
+		overflow:hidden;
+		margin-bottom:30px;
+	}
+
+
+	 .fullwidthbanner-container.home{
+		width:100% !important;
+		position:relative;
+		padding:0;
+		height: 100%;
+		overflow:hidden;
+		margin-bottom:30px;
+		z-index: 10;
+	}
